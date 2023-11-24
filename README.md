@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Technical Writing, Open-Source Projects**
 
-- 📝 I regularly write articles on [www.codersgeek.in](www.codersgeek.in)
+- 📝 I regularly write articles on [https://www.codersgeek.in/](https://www.codersgeek.in/)
 
 - 💬 Ask me about **Frontend Stuffs, Technical Writing**
 
 - 📫 How to reach me **iprasandeep@gmail.com**
 
-- 📄 Want to know more about me? [https://drive.google.com/file/d/1EP68Uve1Guyzw9z-f-1lmnc8cW_3LFFD/view?usp=sharing](https://drive.google.com/file/d/1EP68Uve1Guyzw9z-f-1lmnc8cW_3LFFD/view?usp=sharing)
+- 📄 Want to know more about me? [https://rb.gy/s68uta](https://rb.gy/s68uta)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
