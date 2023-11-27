@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasandeep</h1>
-<h3 align="center">A Frontend Engineer from India</h3>
+<h3 align="center">A Full Stack Engineer from India</h3>
 
 - 🔭 I’m currently working with **Expensify**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.codersgeek.in/](https://www.codersgeek.in/)
 
-- 💬 Ask me about **Frontend Stuffs, Technical Writing**
+- 💬 Ask me about **Frontend, Backend Stuffs, Technical Writing**
 
 - 📫 How to reach me **iprasandeep@gmail.com**
 
